@@ -1,10 +1,5 @@
-// export const BASE_URL =
-<<<<<<< HEAD
-//   process.env.NODE_ENV === 'develeopment' ? 'http://localhost:5000' : 'https://proshop-backend-h78p.onrender.com';
-=======
-//   process.env.NODE_ENV === 'develeopment' ? 'http://localhost:5000' : '';
->>>>>>> a16e0665c56f22f202bbeedeb7097cf6bb396aff
-export const BASE_URL = 'https://proshop-backend-h78p.onrender.com'; // If using proxy
+
+export const BASE_URL = ''; // If using proxy
 export const PRODUCTS_URL = '/api/products';
 export const USERS_URL = '/api/users';
 export const ORDERS_URL = '/api/orders';
